@@ -11,4 +11,3 @@ build/main/warn-main.txt
 *.pyz
 *.pkg
 *.pyc
-*.spec
