@@ -1,1 +1,14 @@
 audio/suffer.mp3
+*.dll
+*.pyd
+*.pem
+*.html
+*.exe
+*.manifest
+*.zip
+build/main/warn-main.txt
+*.toc
+*.pyz
+*.pkg
+*.pyc
+*.spec
