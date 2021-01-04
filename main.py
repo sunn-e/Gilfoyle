@@ -26,7 +26,7 @@ def gilfoyle():
     # whole day
     suffer_for_minutes = 24*60
     # bitcoin rate threshold
-    threshold = 30772.71  # 4 jan 2021 11:30 IST
+    threshold = 31772.71  # 4 jan 2021 11:30 IST
     for _ in range(suffer_for_minutes):
         monies = get_rate("USD")
         if monies < threshold:
